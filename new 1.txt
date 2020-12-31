@@ -1,5 +1,4 @@
 import threading 
-from threading import*
 import time
 
 d={}  #data is stored in the dictionary 'd'
